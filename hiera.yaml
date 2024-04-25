@@ -6,4 +6,4 @@
   - "%{env}"
   - common
 :yaml:
-  :datadir: /path/to/hieradata
+  :datadir: ./hieradata
